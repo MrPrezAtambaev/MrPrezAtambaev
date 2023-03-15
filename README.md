@@ -1,5 +1,6 @@
 ### Hi there 👋
 [<img alt="MrPrezAtambaev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrPrezAtambaev&show_icons=true&hide_border=true">](https://github.com/MrPrezAtambaev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrezAtambaev&layout=compact&hide_border=true)](https://github.com/MrPrezAtambaev)
 
 <!--
 **MrPrezAtambaev/MrPrezAtambaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
