@@ -1,4 +1,5 @@
-### Hi I am Junior Front-End Developer 
+### Hi I am Junior Fullstack Developer
+Stack: JS,TS, NextJS, NodeJS, ExpressJS, NestJS, BlitzJS
 [<img alt="MrPrezAtambaev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrPrezAtambaev&show_icons=true&hide_border=true">](https://github.com/MrPrezAtambaev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrezAtambaev&layout=compact&hide_border=true)](https://github.com/MrPrezAtambaev)
 
