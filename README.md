@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrezAtambaev&layout=compact&hide_border=true)](https://github.com/MrPrezAtambaev)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7kgoju38hi1ibbl4vbfyuo0fd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7kgoju38hi1ibbl4vbfyuo0fd&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=7kgoju38hi1ibbl4vbfyuo0fd&redirect=true)
 <!--
 **MrPrezAtambaev/MrPrezAtambaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
