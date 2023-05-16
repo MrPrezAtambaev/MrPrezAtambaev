@@ -14,7 +14,7 @@
 
 
 
-[<img alt="MrPrezAtambaev's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrPrezAtambaev&theme=tokyonight">](https://github.com/MrPrezAtambaev)
+[<img alt="MrPrezAtambaev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrPrezAtambaev&theme=midnight-purple&show_icons=true">](https://github.com/MrPrezAtambaev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrezAtambaev&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/MrPrezAtambaev)
 
 ## What i'm listening now
