@@ -2,7 +2,10 @@
 ### Stack:
 
 ### Front-End:
-![JavaScript](https://img.shields.io/badge/javascript-%23000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/nextjs-%23000.svg?style=for-the-badge&logo=nextdotjs) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![ReactQuery](https://img.shields.io/badge/reactquery-%23000.svg?style=for-the-badge&logo=reactquery&logoColor=red) ![GhostJS](https://img.shields.io/badge/ghostJS-%23000.svg?style=for-the-badge&logo=ghost&logoColor=white)![Flutter](https://img.shields.io/badge/flutter-%23000.svg?style=for-the-badge&logo=flutter&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/javascript-%23000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/nextjs-%23000.svg?style=for-the-badge&logo=nextdotjs) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![ReactQuery](https://img.shields.io/badge/reactquery-%23000.svg?style=for-the-badge&logo=reactquery&logoColor=red) ![GhostJS](https://img.shields.io/badge/ghostJS-%23000.svg?style=for-the-badge&logo=ghost&logoColor=white)
+
+### Mobile:
+![Flutter](https://img.shields.io/badge/flutter-%23000.svg?style=for-the-badge&logo=flutter&logoColor=blue)
 
 ### Back-End:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -16,9 +19,6 @@
 
 [<img alt="MrPrezAtambaev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrPrezAtambaev&theme=midnight-purple&show_icons=true&hide_border=true">](https://github.com/MrPrezAtambaev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrezAtambaev&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/MrPrezAtambaev)
-
-## What i'm listening now
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7kgoju38hi1ibbl4vbfyuo0fd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **MrPrezAtambaev/MrPrezAtambaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
