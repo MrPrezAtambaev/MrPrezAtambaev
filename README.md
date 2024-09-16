@@ -1,4 +1,4 @@
-### Hi I am Strong Junior Fullstack Developer
+### Hi I am Middle Fullstack Developer
 ### Stack:
 
 ### Front-End:
