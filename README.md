@@ -9,7 +9,7 @@
 
 ### Back-End:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/expressJS-6DA55F.svg?style=for-the-badge&logo=express&logoColor=black) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&logoColor=blue) ![Django](https://img.shields.io/badge/django-%23000?style=for-the-badge&logo=django&logoColor=darkgreen)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&logoColor=blue) ![Django](https://img.shields.io/badge/django-%23000?style=for-the-badge&logo=django&logoColor=darkgreen) ![GRPC](https://img.shields.io/badge/grpc-%23000.svg?style=for-the-badge&logo=trpc&logoColor=green)
 
 ### UI: 
 
